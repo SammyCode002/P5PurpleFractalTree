@@ -19,3 +19,4 @@ The sketch parameters can be tweaked for personalization and exploration:
 - Adjust the `len` variable to set the initial trunk length.
 
 Enjoy the dynamic beauty of the P5 Purple Fractal Tree!
+![P5PurpleFractalTreeImg](https://github.com/SammyCode002/P5PurpleFractalTree/assets/139438647/46212343-2f47-44da-ac39-c9a8dc5fe983)
